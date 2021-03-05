@@ -1,2 +1,8 @@
-# 1-ProjetGATE--SiteWeb--Django
-Premier projet sur Django - 1ere année d'école d'ingénieur - pour la mairie d'Evry sur le thème du harcèlement scolaire
+# 1- ProjetGATE__SiteWeb__Django
+
+## Objectif
+Le projet GATE est un module de première année à Télécom SudParis. Nous sommes 7 élèves qui ont choisi la lutte contre le harcèlement scolaire. 
+
+## Implémentation
+Ce site web est développé avec le framework Django. Utilisation de Python, HTML et CSS.
+
